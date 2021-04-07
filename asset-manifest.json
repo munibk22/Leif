@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a30f77ab.chunk.css",
+    "main.js": "/static/js/main.821d5f3a.chunk.js",
+    "main.js.map": "/static/js/main.821d5f3a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fb897562.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fb897562.js.map",
+    "static/js/2.b3495de6.chunk.js": "/static/js/2.b3495de6.chunk.js",
+    "static/js/2.b3495de6.chunk.js.map": "/static/js/2.b3495de6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a30f77ab.chunk.css.map": "/static/css/main.a30f77ab.chunk.css.map",
+    "static/js/2.b3495de6.chunk.js.LICENSE.txt": "/static/js/2.b3495de6.chunk.js.LICENSE.txt",
+    "static/media/icon1.8dcb09e1.png": "/static/media/icon1.8dcb09e1.png",
+    "static/media/icon2.1c06acfd.png": "/static/media/icon2.1c06acfd.png",
+    "static/media/icon3.7ac32440.png": "/static/media/icon3.7ac32440.png",
+    "static/media/invest.18913b00.jpg": "/static/media/invest.18913b00.jpg",
+    "static/media/phone.7d307122.png": "/static/media/phone.7d307122.png",
+    "static/media/time.bd1a7aaf.jpg": "/static/media/time.bd1a7aaf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb897562.js",
+    "static/js/2.b3495de6.chunk.js",
+    "static/css/main.a30f77ab.chunk.css",
+    "static/js/main.821d5f3a.chunk.js"
+  ]
+}
