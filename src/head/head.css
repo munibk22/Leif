@@ -1,0 +1,86 @@
+.head{
+    /* width:100vw; */
+    height:45vh;
+/* background-color: #007B40     ; */
+/* background-size: contain; */
+background-color: #0333b6;
+
+    }
+    
+ .logo{
+     width:11.3rem;
+     background-image: url("../pics/logo2.png");
+     background-repeat: no-repeat;
+     border-radius: 50%;
+     height:11.3rem;
+     
+ }   
+
+ .banner{
+    /* background-color: #007B40     ; */
+    background-color:#066FCC;
+    align-items: center;
+    min-height: 35px;
+    max-width: 2000px;
+    border-radius: 300px;
+    color: #cfa900;
+    /* color:#FF8946; */
+
+    text-align: center;
+    font-size: .9rem;
+ }
+
+ .coinimg{
+     width: 1.7rem;
+     height: 1.7rem;
+ }
+ .navbar{
+color:white !important;
+max-width: 2000px;
+/* position: sticky !important; */
+border-radius: 200px;
+height:2rem;
+align-items: center;
+background-color:#111B36;
+
+ }
+
+ a{
+    color:white !important; 
+    text-decoration: none;
+    font-size: 1.2em;
+ }
+
+.navul{
+
+    flex:1;
+    max-width: 60%;
+    justify-content: space-between;
+
+}
+
+
+
+ @media (max-width:500px){
+
+    a{
+font-size: .7rem !important;
+
+    }
+ }
+
+ 
+ @media (max-width:668px){
+    a{
+        font-size:.8rem;
+
+    }
+}
+
+ 
+@media (max-width:568px){
+    .navbar, .navul {
+       /* flex-direction: column; */
+
+    }
+}

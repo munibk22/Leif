@@ -1,0 +1,156 @@
+legend.scheduler-border {
+    width:inherit; /* Or auto */
+    padding:0 10px; /* To give a bit of padding on the left and right */
+    border-bottom:none;
+}
+.rightcard{
+    color:white;
+    
+    width:29rem;
+    height:280px;
+    /* background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%); */
+    /* background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%); */
+    background-image: linear-gradient(to top, #48c6ef 0%, #6f86d6 100%);
+    /* background-image: linear-gradient(to right, #3ab5b0 0%, #3d99be 31%, #56317a 100%); */
+    /* background-image: linear-gradient(to top, #a3bded 0%, #6991c7 100%); */
+    /* background-image: linear-gradient(to top, #0ba360 0%, #3cba92 100%); */
+
+    /* background-image: linear-gradient(-60deg, #16a085 0%, #f4d03f 100%); */
+
+    /* background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%); */
+
+    border-radius: 10px;
+}
+.bod{
+    width:70vw; 
+    /* background-color: #007B40; */
+    /* background-color: #00C767; */
+    /* background-color: #2B9160 !important; */
+    /* background-color: #3CC784; */
+    /* max-width: 1400px; */
+    justify-content: center;
+}
+
+.hicon{
+    font-size: 5rem;
+    margin-bottom: 15%;
+    /* color:#005d31 */
+    color:#069BC2;
+
+}
+
+.headerb{
+    /* color:#FF8946; */
+color:#066FCC;
+
+    /* color: rgb(207, 169, 0); */
+
+    transition: all .3s ease-in-out;
+}
+
+.headerb:hover{
+    transform: scale(1.07);
+
+}
+
+.container{
+    width: 75vw;
+    max-width: -webkit-fill-available;
+    justify-content: flex-start;
+
+}
+ .p1{
+    width: 21.5rem;
+    height: 26rem;
+border: 8px #000578 solid;
+
+/* height: 50px; */
+overflow: hidden;
+
+    }
+
+    .p2{
+        justify-content: flex-end;
+        width: 75vw;
+        max-width: -webkit-fill-available;
+        }
+    
+
+    
+    .img1div{
+        border:6px #044480  solid;
+            left: 21rem;
+            top: 2rem;
+            border-radius: 8px;
+                }
+
+    .img1{
+        width: 17rem;
+        height: 21rem;
+        
+        /* background-image: url("../pics/invest.jpg"); */
+        object-fit: fill;
+      
+            }
+
+
+            .img2div{
+                border:6px #044480  solid;
+                    right: 21rem;
+                    top: 2rem;
+                      border-radius: 8px;
+                        }
+        
+            .img2{
+                width: 17rem;
+                height: 21rem;
+               
+                /* background-image: url("../pics/invest.jpg"); */
+                object-fit: ;
+              
+                    }
+        
+
+
+
+
+            .img3div{
+                /* border:4px #007B40 solid; */
+                border:6px #044480  solid;
+                left: 21rem;
+                    top: 2rem;
+                    border-radius: 8px;
+                        }
+        
+            .img3{
+                width: 17rem;
+                height: 21rem;
+             
+                /* background-image: url("../pics/invest.jpg"); */
+                object-fit: cover;
+              
+                    }
+
+                    @media (max-width:665px){
+                        .img3div ,.img1div,.img2div
+                        {
+                            display:none;
+                        }
+                        .p1{
+                            margin:auto !important;
+
+                        }
+                    }
+
+
+                    fieldset.scheduler-border {
+                        border: solid 1px #DDD !important;
+                        padding: 0 10px 10px 10px;
+                        border-bottom: none;
+                    }
+                    
+                    legend.scheduler-border {
+                        width: auto !important;
+                        border: none;
+                        font-size: 14px;
+                    }
