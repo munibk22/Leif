@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Leif/static/css/main.d709686c.chunk.css",
+    "main.css": "/Leif/static/css/main.e327682c.chunk.css",
     "main.js": "/Leif/static/js/main.ab3c4994.chunk.js",
     "main.js.map": "/Leif/static/js/main.ab3c4994.chunk.js.map",
     "runtime-main.js": "/Leif/static/js/runtime-main.b8f9827f.js",
@@ -8,7 +8,7 @@
     "static/js/2.b3495de6.chunk.js": "/Leif/static/js/2.b3495de6.chunk.js",
     "static/js/2.b3495de6.chunk.js.map": "/Leif/static/js/2.b3495de6.chunk.js.map",
     "index.html": "/Leif/index.html",
-    "static/css/main.d709686c.chunk.css.map": "/Leif/static/css/main.d709686c.chunk.css.map",
+    "static/css/main.e327682c.chunk.css.map": "/Leif/static/css/main.e327682c.chunk.css.map",
     "static/js/2.b3495de6.chunk.js.LICENSE.txt": "/Leif/static/js/2.b3495de6.chunk.js.LICENSE.txt",
     "static/media/abc.c4a47826.jpeg": "/Leif/static/media/abc.c4a47826.jpeg",
     "static/media/icon1.8dcb09e1.png": "/Leif/static/media/icon1.8dcb09e1.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.b8f9827f.js",
     "static/js/2.b3495de6.chunk.js",
-    "static/css/main.d709686c.chunk.css",
+    "static/css/main.e327682c.chunk.css",
     "static/js/main.ab3c4994.chunk.js"
   ]
 }
