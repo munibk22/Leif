@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Leif/static/css/main.4ccb055e.chunk.css",
-    "main.js": "/Leif/static/js/main.a38a621d.chunk.js",
-    "main.js.map": "/Leif/static/js/main.a38a621d.chunk.js.map",
+    "main.css": "/Leif/static/css/main.d709686c.chunk.css",
+    "main.js": "/Leif/static/js/main.ca24f595.chunk.js",
+    "main.js.map": "/Leif/static/js/main.ca24f595.chunk.js.map",
     "runtime-main.js": "/Leif/static/js/runtime-main.b8f9827f.js",
     "runtime-main.js.map": "/Leif/static/js/runtime-main.b8f9827f.js.map",
     "static/js/2.b3495de6.chunk.js": "/Leif/static/js/2.b3495de6.chunk.js",
     "static/js/2.b3495de6.chunk.js.map": "/Leif/static/js/2.b3495de6.chunk.js.map",
     "index.html": "/Leif/index.html",
-    "static/css/main.4ccb055e.chunk.css.map": "/Leif/static/css/main.4ccb055e.chunk.css.map",
+    "static/css/main.d709686c.chunk.css.map": "/Leif/static/css/main.d709686c.chunk.css.map",
     "static/js/2.b3495de6.chunk.js.LICENSE.txt": "/Leif/static/js/2.b3495de6.chunk.js.LICENSE.txt",
     "static/media/abc.c4a47826.jpeg": "/Leif/static/media/abc.c4a47826.jpeg",
     "static/media/icon1.8dcb09e1.png": "/Leif/static/media/icon1.8dcb09e1.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.b8f9827f.js",
     "static/js/2.b3495de6.chunk.js",
-    "static/css/main.4ccb055e.chunk.css",
-    "static/js/main.a38a621d.chunk.js"
+    "static/css/main.d709686c.chunk.css",
+    "static/js/main.ca24f595.chunk.js"
   ]
 }
