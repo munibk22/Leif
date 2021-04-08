@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Leif/static/css/main.d6eeeadd.chunk.css",
-    "main.js": "/Leif/static/js/main.4a0299d5.chunk.js",
-    "main.js.map": "/Leif/static/js/main.4a0299d5.chunk.js.map",
+    "main.js": "/Leif/static/js/main.576caaf9.chunk.js",
+    "main.js.map": "/Leif/static/js/main.576caaf9.chunk.js.map",
     "runtime-main.js": "/Leif/static/js/runtime-main.b8f9827f.js",
     "runtime-main.js.map": "/Leif/static/js/runtime-main.b8f9827f.js.map",
     "static/js/2.b3495de6.chunk.js": "/Leif/static/js/2.b3495de6.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.b8f9827f.js",
     "static/js/2.b3495de6.chunk.js",
     "static/css/main.d6eeeadd.chunk.css",
-    "static/js/main.4a0299d5.chunk.js"
+    "static/js/main.576caaf9.chunk.js"
   ]
 }
